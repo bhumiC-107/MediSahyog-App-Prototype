@@ -1,11 +1,36 @@
+# MediSahyog App
 
-  # HealthPind App Prototype
+MediSahyog is an AI-powered healthcare assistance application designed to help users identify health conditions based on symptoms and receive personalized recommendations.
 
-  This is a code bundle for HealthPind App Prototype. The original project is available at https://www.figma.com/design/rSn0a4jCAm745FoTM0Caqr/HealthPind-App-Prototype.
+The app features an AI-driven chatbot that analyzes user-reported symptoms and suggests home remedies, basic medication information, or escalates critical cases by recommending urgent doctor consultations or video calls.
 
-  ## Running the code
+In addition to medical guidance, HealthPind provides access to state-wise government health schemes, transport facilities for medical emergencies, and an ASHA worker support module to improve healthcare accessibility.
 
-  Run `npm i` to install the dependencies.
+---
 
-  Run `npm run dev` to start the development server.
-  
+
+## 🔗 Live Demo
+https://health-pind-app-prototype.vercel.app
+
+
+---
+
+## ✨ Features
+- AI-based symptom detection chatbot
+- Personalized home remedies and medication guidance
+- Critical case detection with doctor consultation support
+- State-wise healthcare schemes
+- Medical transport facilities
+- ASHA worker assistance
+- Multilingual support
+
+---
+
+## 🛠 Tech Stack
+- React
+- TypeScript
+- Vite
+- Git & GitHub
+
+---
+

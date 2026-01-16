@@ -10,7 +10,7 @@ In addition to medical guidance, HealthPind provides access to state-wise govern
 
 
 ## 🔗 Live Demo
-https://health-pind-app-prototype.vercel.app
+https://medi-sahyog-app.vercel.app/
 
 
 ---

@@ -4,7 +4,7 @@ MediSahyog is an AI-powered healthcare assistance application designed to help u
 
 The app features an AI-driven chatbot that analyzes user-reported symptoms and suggests home remedies, basic medication information, or escalates critical cases by recommending urgent doctor consultations or video calls.
 
-In addition to medical guidance, HealthPind provides access to state-wise government health schemes, transport facilities for medical emergencies, and an ASHA worker support module to improve healthcare accessibility.
+In addition to medical guidance, MediSahyog provides access to state-wise government health schemes, transport facilities for medical emergencies, and an ASHA worker support module to improve healthcare accessibility.
 
 ---
 
